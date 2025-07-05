@@ -4,7 +4,7 @@ import React from 'react';
 const Card = ({ title, description }) => {
   return (
     <div className="card">
-      <h3>{title}</h3>
+      <h3>hello</h3>
       <p>{description}</p>
     </div>
   );
